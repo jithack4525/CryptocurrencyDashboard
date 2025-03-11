@@ -7,7 +7,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-+> Navigate to the project folder in cmd / terminal.
+=> Navigate to the project folder in cmd / terminal.
 => After cloning the repo, run `npm install`. If you encounter with vulnerabilities, run `npm audit fix`, even after this there are errors then run `npm audit fix --force`. To look at the information run `npm fund`.
 
 => Before running, goto RapidAPI website and search Coinkranking and get your apikey.
